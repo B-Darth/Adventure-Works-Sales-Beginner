@@ -1,7 +1,12 @@
 # 📊 AdventureWorks Sales Analysis (Power BI Beginner Project)
 ***A Series of a set of 3 Levels to building a beginner Power BI Project - self workings***
 
-This repository contains a beginner-friendly Power BI project that uses the **AdventureWorks+Sales dataset**, simulating a multinational manufacturing company's operations. The project walks through minor end-to-end data preparation, transformation, modeling, and interactive dashboard creation using **Power BI Desktop** and **Power Query Editor**.
+This repository contains a beginner-friendly Power BI project that uses the **AdventureWorks+Sales dataset**, simulating a multinational manufacturing company's operations. The project walks through minor end-to-end data preparation, transformation, modeling, and interactive dashboard creation using **Power BI Desktop** and **Power Query Editor**. The repository includes the following key files:
+
+- Adventure Works [Beginner] Problem Statement.docx: This document outlines the project tasks and provides detailed descriptions and guidelines.
+- Adventure Works Sales [Beginner].pbix: A PowerBI pbix file containing the implementation of the project tasks, showcasing data analysis, visualization, and manipulation techniques.
+- AdventureWorks+Sales.xlsx: The Excel dataset used in this project contains various attributes related to housing data.
+
 
 ---
 
@@ -17,8 +22,8 @@ This repository contains a beginner-friendly Power BI project that uses the **Ad
 ## 🧾 Dataset
 
 - **AdventureWorks+Sales.xlsx** (provided along with this project)
-  - Contains tables like Customers, Sales, Products, Date.
-  - Do **not** load sheets ending with `_data`.
+  - Contains tables like Customers, Sales, Products, Date, etc..
+  - Load the provided Excel sheet in Power BI.
   - Represents fictional sales data of AdventureWorks Cycles across multiple regions and categories.
 
 ---
@@ -34,7 +39,7 @@ This repository contains a beginner-friendly Power BI project that uses the **Ad
 ## 🔧 Power Query Data Transformation Steps
 
 1. **Data Load**
-   - Load all relevant tables from Excel excluding sheets ending with `_data`.
+   - Load all relevant tables from Excel ending with `_xlsx`.
 
 2. **Column Profiling**
    - Enable: `Column Profile`, `Column Quality`, and `Column Distribution` from the *View* tab in Power Query Editor to check data quality.

@@ -1,11 +1,11 @@
 # 📊 AdventureWorks Sales Analysis (Power BI Beginner Project)
-***A Series of a set of 3 Levels to building a beginner Power BI Project - self workings***
+***A Series of a set of 3 Levels to building a beginner Power BI Project - self-workings***
 
 This repository contains a beginner-friendly Power BI project that uses the **AdventureWorks+Sales dataset**, simulating a multinational manufacturing company's operations. The project walks through minor end-to-end data preparation, transformation, modeling, and interactive dashboard creation using **Power BI Desktop** and **Power Query Editor**. The repository includes the following key files:
 
-- Adventure Works [Beginner] Problem Statement.docx: This document outlines the project tasks and provides detailed descriptions and guidelines.
-- Adventure Works Sales [Beginner].pbix: A PowerBI pbix file containing the implementation of the project tasks, showcasing data analysis, visualization, and manipulation techniques.
-- AdventureWorks+Sales.xlsx: The Excel dataset used in this project contains various attributes related to housing data.
+- **Adventure Works [Beginner] Problem Statement.docx** : This document outlines the project tasks and provides detailed descriptions and guidelines.
+- **Adventure Works Sales [Beginner].pbix** : A PowerBI pbix file containing the implementation of the project tasks, showcasing data analysis, visualization, and manipulation techniques.
+- **AdventureWorks+Sales.xlsx** : The Excel dataset used in this project contains various attributes related to housing data.
 
 
 ---
